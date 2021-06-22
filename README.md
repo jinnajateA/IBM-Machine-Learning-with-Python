@@ -12,5 +12,7 @@
   - Support Vector Machine
 - **Clustering**
   - K-means
+  - Hierarchical Clustering
+  - DBSCAN
 - **Recommender Systems**
 - **Final Project**
