@@ -15,4 +15,6 @@
   - Hierarchical Clustering
   - DBSCAN
 - **Recommender Systems**
+  - Content Based
+  - Collaborative Filtering
 - **Final Project**
